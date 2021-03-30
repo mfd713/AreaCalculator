@@ -1,0 +1,13 @@
+C:\Users\Madeline\source\repos\Area Calculator\bin\Debug\netcoreapp3.1\Area Calculator.exe
+C:\Users\Madeline\source\repos\Area Calculator\bin\Debug\netcoreapp3.1\Area Calculator.deps.json
+C:\Users\Madeline\source\repos\Area Calculator\bin\Debug\netcoreapp3.1\Area Calculator.runtimeconfig.json
+C:\Users\Madeline\source\repos\Area Calculator\bin\Debug\netcoreapp3.1\Area Calculator.runtimeconfig.dev.json
+C:\Users\Madeline\source\repos\Area Calculator\bin\Debug\netcoreapp3.1\Area Calculator.dll
+C:\Users\Madeline\source\repos\Area Calculator\bin\Debug\netcoreapp3.1\Area Calculator.pdb
+C:\Users\Madeline\source\repos\Area Calculator\obj\Debug\netcoreapp3.1\Area Calculator.csprojAssemblyReference.cache
+C:\Users\Madeline\source\repos\Area Calculator\obj\Debug\netcoreapp3.1\Area Calculator.AssemblyInfoInputs.cache
+C:\Users\Madeline\source\repos\Area Calculator\obj\Debug\netcoreapp3.1\Area Calculator.AssemblyInfo.cs
+C:\Users\Madeline\source\repos\Area Calculator\obj\Debug\netcoreapp3.1\Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Madeline\source\repos\Area Calculator\obj\Debug\netcoreapp3.1\Area Calculator.dll
+C:\Users\Madeline\source\repos\Area Calculator\obj\Debug\netcoreapp3.1\Area Calculator.pdb
+C:\Users\Madeline\source\repos\Area Calculator\obj\Debug\netcoreapp3.1\Area Calculator.genruntimeconfig.cache
